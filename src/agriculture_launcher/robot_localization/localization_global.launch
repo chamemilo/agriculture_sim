@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<launch>
+    
+    <!-- Filtered Odom + GPS -->
+    <node pkg="robot_localization" type="ekf_localization_node" name="ekf_global" clear_params="true" output="screen">
+        <rosparam command="load" file="$(find configurations)/robot_localization/ekf_global.yaml"/>
+        <remap from="odometry/filtered" to="ekf/global_odom"/>
+    </node>  
+
+    <!-- GPS coordinate transformation -->
+     <node pkg="robot_localization" type="navsat_transform_node" name="navsat_transform_node">
+        <rosparam command="load" file="$(find configurations)/robot_localization/navsat_transform.yaml"/>
+        <remap from="imu/data" to="imu/data"/> 
+        <remap from="odometry/filtered" to="ekf/global_odom"/>
+        <remap from="gps/fix" to="gps/fix"/>
+        <remap from="odometry/gps" to="ekf/gps_converted_odom"/> 
+    </node>
+
+</launch>

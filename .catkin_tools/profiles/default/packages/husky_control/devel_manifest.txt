@@ -1,0 +1,5 @@
+husky/husky_control
+/home/developer/agriculture_sim/devel/.private/husky_control/cmake.lock /home/developer/agriculture_sim/devel/./cmake.lock
+/home/developer/agriculture_sim/devel/.private/husky_control/share/husky_control/cmake/husky_controlConfig-version.cmake /home/developer/agriculture_sim/devel/share/husky_control/cmake/husky_controlConfig-version.cmake
+/home/developer/agriculture_sim/devel/.private/husky_control/share/husky_control/cmake/husky_controlConfig.cmake /home/developer/agriculture_sim/devel/share/husky_control/cmake/husky_controlConfig.cmake
+/home/developer/agriculture_sim/devel/.private/husky_control/lib/pkgconfig/husky_control.pc /home/developer/agriculture_sim/devel/lib/pkgconfig/husky_control.pc

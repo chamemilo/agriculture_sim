@@ -1,0 +1,8 @@
+prefix=/home/developer/agriculture_sim/install
+
+Name: agriculture_launcher
+Description: Description of agriculture_launcher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

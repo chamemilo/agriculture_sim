@@ -1,0 +1,8 @@
+prefix=/home/developer/agriculture_sim/devel
+
+Name: velodyne_pcl
+Description: Description of velodyne_pcl
+Version: 1.6.1
+Cflags: -I/home/developer/agriculture_sim/src/velodyne/velodyne_pcl/include
+Libs: -L${prefix}/lib 
+Requires: pcl_ros

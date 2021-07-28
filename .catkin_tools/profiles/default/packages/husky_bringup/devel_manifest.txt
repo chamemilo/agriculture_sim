@@ -1,0 +1,5 @@
+husky/husky_bringup
+/home/developer/agriculture_sim/devel/.private/husky_bringup/cmake.lock /home/developer/agriculture_sim/devel/./cmake.lock
+/home/developer/agriculture_sim/devel/.private/husky_bringup/share/husky_bringup/cmake/husky_bringupConfig-version.cmake /home/developer/agriculture_sim/devel/share/husky_bringup/cmake/husky_bringupConfig-version.cmake
+/home/developer/agriculture_sim/devel/.private/husky_bringup/share/husky_bringup/cmake/husky_bringupConfig.cmake /home/developer/agriculture_sim/devel/share/husky_bringup/cmake/husky_bringupConfig.cmake
+/home/developer/agriculture_sim/devel/.private/husky_bringup/lib/pkgconfig/husky_bringup.pc /home/developer/agriculture_sim/devel/lib/pkgconfig/husky_bringup.pc

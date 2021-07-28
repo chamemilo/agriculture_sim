@@ -1,0 +1,8 @@
+prefix=/home/developer/agriculture_sim/devel
+
+Name: stochlite_description
+Description: Description of stochlite_description
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

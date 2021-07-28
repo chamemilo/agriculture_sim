@@ -1,0 +1,5 @@
+husky/husky_description
+/home/developer/agriculture_sim/devel/.private/husky_description/cmake.lock /home/developer/agriculture_sim/devel/./cmake.lock
+/home/developer/agriculture_sim/devel/.private/husky_description/share/husky_description/cmake/husky_descriptionConfig-version.cmake /home/developer/agriculture_sim/devel/share/husky_description/cmake/husky_descriptionConfig-version.cmake
+/home/developer/agriculture_sim/devel/.private/husky_description/share/husky_description/cmake/husky_descriptionConfig.cmake /home/developer/agriculture_sim/devel/share/husky_description/cmake/husky_descriptionConfig.cmake
+/home/developer/agriculture_sim/devel/.private/husky_description/lib/pkgconfig/husky_description.pc /home/developer/agriculture_sim/devel/lib/pkgconfig/husky_description.pc

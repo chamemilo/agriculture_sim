@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<launch>
+
+    <include file="$(find transporter_controller)/launch/local_odom_publisher.launch">
+        <arg name="odom_topic" value="odom"/>
+        <arg name="twist_topic" value="cmd_velReal"/>
+    </include>
+
+</launch>
